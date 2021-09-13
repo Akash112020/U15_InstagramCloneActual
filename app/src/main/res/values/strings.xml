@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">U15_InstagramCloneActual</string>
+
+    // user defined from Back4App.com , https://parseplatform.org/
+    <string name="back4app_app_id">Gg1P1VKT8ugBXaTtfClIFzIZVWkffokLgQuNRlQI</string>
+    <string name="back4app_client_key">WD8DtSffYSYptYfVZDWo5RkLQJ5iITGDAB91mjfl</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+</resources>
